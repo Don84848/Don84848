@@ -5,7 +5,7 @@
 
 <!-- Typing Header Effect -->
 <a href="https://awais.top">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Awais;Cyber+Security+%26+Reconnaissance;Python+%26+Automation+Developer;WhatsApp+%26+Telegram+Bots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Awais;Cyber+Security+%26+Reconnaissance;Python+%26+Automation+Developer;WhatsApp+%26+Telegram+Bots&v=4" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -76,15 +76,27 @@
 <div align="center">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Don84848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Lapsus Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Don84848&theme=tokyonight&hide_border=true" alt="Lapsus Streak" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Don84848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Awais Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Don84848&theme=tokyonight&hide_border=true" alt="Awais Streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don84848&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Don84848&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 </div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
