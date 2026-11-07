@@ -62,7 +62,6 @@
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[AI-Alarm-Pro](https://github.com/Don84848/AI-Alarm-Pro)** | Smart AI-powered voice alarm system with Gemini AI, Material 3 Clock UI, and custom automation. | Python / AI / Android | 🟢 **Public** |
-| **Happy Birthday WhatsApp Bot** | Automated WhatsApp birthday wisher, scheduler, and contact reminder assistant. | Python / WhatsApp API | 🔒 **Private Dev** |
 
 <br/>
 
