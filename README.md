@@ -5,7 +5,7 @@
 
 <!-- Typing Header Effect -->
 <a href="https://awais.top">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Awais;Cyber+Security+%26+Reconnaissance;Python+%26+Automation+Developer;WhatsApp+%26+Telegram+Bots&v=4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Awais;Cyber+Security+%26+Reconnaissance;Python+%26+Automation+Developer;WhatsApp+%26+Telegram+Bots&v=5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,10 +15,8 @@
 
 <br/><br/>
 
-<!-- Dynamic Dev Quotes -->
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
-</a>
+<!-- Short Quote -->
+<i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b>
 
 </div>
 
@@ -91,20 +89,18 @@
 ### 🐍 Contribution Activity Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake.svg?v=white_bg" width="100%" alt="Contribution Snake on Clean White Background" />
 </p>
 
 ---
 
-### 😂 Daily Dev Joke
+### 😂 Quick Dev Humor
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Daily Programming Joke" />
-</p>
+<div align="center">
+
+> *"Why do programmers prefer dark mode? Because light attracts bugs!"* 🐛
+
+</div>
 
 <br/>
 
