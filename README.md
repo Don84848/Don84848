@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Lapsus%20Dev&fontSize=42&fontAlignY=38&desc=Cyber%20Security%20%7C%20Automation%20%7C%20Bots&descAlignY=60&descAlign=50" width="100%" alt="Lapsus Dev Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Awais&fontSize=42&fontAlignY=38&desc=Cyber%20Security%20%7C%20Automation%20%7C%20Bots&descAlignY=60&descAlign=50" width="100%" alt="Awais Header" />
 
 <!-- Typing Header Effect -->
 <a href="https://awais.top">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Lapsus+Dev+👋;Cyber+Security+%26+Reconnaissance;Python+%26+Automation+Developer;WhatsApp+%26+Telegram+Bots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm\+Awais\+👋;Cyber+Security+%26+Reconnaissance;Python+%26+Automation+Developer;WhatsApp+%26+Telegram+Bots" alt="Typing SVG" />
 </a>
 
 <br/>
