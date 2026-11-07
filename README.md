@@ -88,14 +88,6 @@
 
 ---
 
-### 🐍 Contribution Activity Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 ### 😂 Daily Dev Joke
 
 <p align="center">
