@@ -1,8 +1,11 @@
 <div align="center">
 
+<!-- Header Capsule Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Lepsus%20Dev&fontSize=42&fontAlignY=38&desc=Cyber%20Security%20%7C%20Automation%20%7C%20Bots&descAlignY=60&descAlign=50" width="100%" alt="Lepsus Dev Header" />
+
 <!-- Typing Header Effect -->
 <a href="https://awais.top">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Awais+AD+👋;Cyber+Security+%26+Recon+Expert;Telegram+%26+WhatsApp+Automation;Digital+Products+%26+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Lepsus+Dev+👋;Cyber+Security+%26+Reconnaissance;Python+%26+Automation+Developer;WhatsApp+%26+Telegram+Bots" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,24 +28,16 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" width="38%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" />
-
-- 🛡️ **Cyber Security & Reconnaissance:** Passionate about ethical hacking, security tools, and network mapping.
+- 🛡️ **Cyber Security & Reconnaissance:** Passionate about ethical hacking, security research, and network mapping.
 - 🤖 **Automation & Bots:** Specializing in Telegram bots, WhatsApp assistants, and custom automation scripts.
-- 💼 **Digital Solutions:** Digital Products & Services Provider at **AD**.
-- 🌐 **Website:** Explore my services and portfolio at [awais.top](https://awais.top).
 - 📍 **Location:** Dev Land
-- ⚡ **Fun Fact:** *"Sleep? To Program Your Subconscious Space."* 😉
+- 🌐 **Portfolio & Services:** [awais.top](https://awais.top)
 
 <br/>
 
 ---
 
 ### 🛠️ Tech Toolbox
-
-<p align="center">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="180" height="180" alt="Tech GIF" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -64,24 +59,16 @@
 
 ### 🚀 Featured Projects
 
-> *Tell me which repositories you want showcased here, and I'll update their cards!*
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[AI-Alarm-Pro](https://github.com/Don84848/AI-Alarm-Pro)** | Intelligent AI-driven alarm and automation system. | Python / AI |
-| **[Featured Project #2]** | *Custom description for your selected project.* | *Python / Bot* |
-| **[Featured Project #3]** | *Custom description for your selected project.* | *Cyber Security* |
-| **[Featured Project #4]** | *Custom description for your selected project.* | *Automation / Web* |
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[AI-Alarm-Pro](https://github.com/Don84848/AI-Alarm-Pro)** | Smart AI-powered voice alarm system with Gemini AI, Material 3 Clock UI, and custom automation. | Python / AI / Android | 🟢 **Public** |
+| **Happy Birthday WhatsApp Bot** | Automated WhatsApp birthday wisher, scheduler, and contact reminder assistant. | Python / WhatsApp API | 🔒 **Private Dev** |
 
 <br/>
 
----
+> 🔒 **Important things still private.**
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Don84848&theme=tokyonight&no-frame=true&column=6" alt="Awais's Trophies" />
-</p>
+<br/>
 
 ---
 
@@ -90,8 +77,8 @@
 <div align="center">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Don84848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Awais Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Don84848&theme=tokyonight&hide_border=true" alt="Awais Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Don84848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Lepsus Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Don84848&theme=tokyonight&hide_border=true" alt="Lepsus Streak" />
 </p>
 
 <p align="center">
@@ -105,12 +92,12 @@
 ### 🐍 Contribution Activity Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake-dark.svg" alt="GitHub Contribution Snake" onerror="this.src='https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif'; this.width=300;" />
+  <img src="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-### 😂 Daily Dev Joke (Mini UI Widget)
+### 😂 Daily Dev Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Daily Programming Joke" />
@@ -123,21 +110,19 @@
 ### 📬 Connect With Me
 
 <p align="center">
+  <a href="https://t.me/lepsus_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@lepsus__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="https://awais.top" target="_blank">
     <img src="https://img.shields.io/badge/Website-awais.top-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/Don84848" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Don84848-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="160" height="160" alt="Star GIF" />
-  <br/>
   <b>⭐ If you find any of my tools helpful, feel free to drop a star! ⭐</b>
 </div>
