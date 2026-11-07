@@ -26,6 +26,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Ensure solid white background for snake
+        run: |
+          sed -i 's/<svg[^>]*>/&<rect x="-16" y="-32" width="880" height="192" fill="#ffffff" rx="12"\/>/' dist/*.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
