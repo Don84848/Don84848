@@ -61,8 +61,6 @@
 | :--- | :--- | :--- | :--- |
 | **[AI-Alarm-Pro](https://github.com/Don84848/AI-Alarm-Pro)** | Smart AI-powered voice alarm system with Gemini AI, Material 3 Clock UI, and custom automation. | Python / AI / Android | 🟢 **Public** |
 | **[Protection](https://github.com/Don84848/Protection)** | Lightweight CLI suite for URL source code extraction and client-side HTML/CSS/JS obfuscation. | Python / Security / CLI | 🟢 **Public** |
-| **[Protection](https://github.com/Don84848/Protection)** | Lightweight CLI suite for URL source code extraction and client-side HTML/CSS/JS obfuscation. | Python / Security / CLI | 🟢 **Public** |
-| **[Protection](https://github.com/Don84848/Protection)** | Lightweight CLI suite for URL source code extraction and client-side HTML/CSS/JS obfuscation. | Python / Security / CLI | 🟢 **Public** |
 
 <br/>
 
