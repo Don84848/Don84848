@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Awais&fontSize=42&fontAlignY=38&desc=Cyber%20Security%20%7C%20Automation%20%7C%20Bots&descAlignY=60&descAlign=50" width="100%" alt="Awais Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=AD&fontSize=42&fontAlignY=38&desc=Cyber%20Security%20%7C%20Automation%20%7C%20Bots&descAlignY=60&descAlign=50" width="100%" alt="AD Header" />
 
 <!-- Typing Header Effect -->
 <a href="https://awais.top">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Awais;Cyber+Security+%26+Reconnaissance;Python+%26+Automation+Developer;WhatsApp+%26+Telegram+Bots&v=5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+AD;Cyber+Security+%26+Reconnaissance;Python+%26+Automation+Developer;WhatsApp+%26+Telegram+Bots&v=5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- Short Quote -->
-<i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b>
+<i>"First, solve the problem. Then, write the code."</i> - <b>John Johnson</b>
 
 </div>
 
@@ -24,18 +24,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🛡️ **Cyber Security & Reconnaissance:** Passionate about ethical hacking, security research, and network mapping.
-- 🤖 **Automation & Bots:** Specializing in Telegram bots, WhatsApp assistants, and custom automation scripts.
-- 📍 **Location:** Dev Land
-- 🌐 **Portfolio & Services:** [awais.top](https://awais.top)
+- **Cyber Security & Reconnaissance:** Security research, penetration testing tools, and network scanning.
+- **Automation & Bots:** Custom Telegram bots, messaging automation, and utility scripts.
+- **Location:** Remote
+- **Website:** [awais.top](https://awais.top)
 
 <br/>
 
 ---
 
-### 🛠️ Tech Toolbox
+### Tech Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -55,27 +55,25 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[WebEncryptor](https://github.com/Don84848/WebEncryptor)** | Professional client-side HTML, CSS & JavaScript obfuscation and web source extraction suite. | Python / Security / CLI | 🟢 **Public** |
-| **[AI-Alarm-Pro](https://github.com/Don84848/AI-Alarm-Pro)** | Smart AI-powered voice alarm system with Gemini AI, Material 3 Clock UI, and custom automation. | Python / AI / Android | 🟢 **Public** |
-| **[ADos](https://github.com/Don84848/ADos)** | Unified open-source mobile cybersecurity operating system & penetration testing orchestrator. | Python / Shell / Linux | 🟢 **Public** |
+| **[WebEncryptor](https://github.com/Don84848/WebEncryptor)** | Client side HTML, CSS, and JavaScript obfuscator and source extractor. | Python / Security / CLI | Public |
+| **[AI-Alarm-Pro](https://github.com/Don84848/AI-Alarm-Pro)** | Minimalist smart alarm and clock mobile app with automated scheduling. | Python / AI / Android | Public |
+| **[ADos](https://github.com/Don84848/ADos)** | Unified open-source mobile cybersecurity operating system and tools. | Python / Shell / Linux | Public |
 
 <br/>
 
-> 🔒 **Important things still private.**
-
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity and Stats
 
 <div align="center">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Don84848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Awais Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Don84848&theme=tokyonight&hide_border=true" alt="Awais Streak" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Don84848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="AD Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Don84848&theme=tokyonight&hide_border=true" alt="AD Streak" />
 </p>
 
 <p align="center">
@@ -86,19 +84,19 @@
 
 ---
 
-### 🐍 Contribution Activity Snake
+### Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake.svg?v=white_bg" width="100%" alt="Contribution Snake on Clean White Background" />
+  <img src="https://raw.githubusercontent.com/Don84848/Don84848/output/github-snake.svg?v=white_bg" width="100%" alt="Contribution Snake" />
 </p>
 
 ---
 
-### 😂 Quick Dev Humor
+### Developer Humor
 
 <div align="center">
 
-> *"Why do programmers prefer dark mode? Because light attracts bugs!"* 🐛
+> *"Why do programmers prefer dark mode? Because light attracts bugs."*
 
 </div>
 
@@ -106,7 +104,7 @@
 
 ---
 
-### 📬 Connect With Me
+### Connect
 
 <p align="center">
   <a href="https://t.me/lapsusdev" target="_blank">
@@ -119,9 +117,3 @@
     <img src="https://img.shields.io/badge/GitHub-Don84848-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<br/>
-
-<div align="center">
-  <b>⭐ If you find any of my tools helpful, feel free to drop a star! ⭐</b>
-</div>
