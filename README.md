@@ -59,9 +59,9 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[WebEncryptor](https://github.com/Don84848/WebEncryptor)** | Client side HTML, CSS, and JavaScript obfuscator and source extractor. | Python / Security / CLI | Public |
 | **[AI-Alarm-Pro](https://github.com/Don84848/AI-Alarm-Pro)** | Minimalist smart alarm and clock mobile app with automated scheduling. | Python / AI / Android | Public |
 | **[ADos](https://github.com/Don84848/ADos)** | Unified open-source mobile cybersecurity operating system and tools. | Python / Shell / Linux | Public |
+| **[WebEncryptor](https://github.com/Don84848/WebEncryptor)** | Client side HTML, CSS, and JavaScript obfuscator and source extractor. | Python / Security / CLI | Public |
 
 <br/>
 
